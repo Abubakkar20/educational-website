@@ -1,3 +1,4 @@
+// responsive menu section
 var navLinks = document.getElementById("navLinks")
 
     function showMenu() {
